@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SQLIteCRUDApp</string>
+
+    <array name="departamentos">
+        <item>Técnico</item>
+        <item>Suporte</item>
+        <item>Pesquisa e desenvolvimento</item>
+        <item>marketing</item>
+        <item>Recursos</item>
+    </array>
+</resources>
